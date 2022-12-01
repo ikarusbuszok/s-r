@@ -1,0 +1,26 @@
+nav {
+    display: grid;
+    float: right;
+    color: red;
+    text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 11px;
+
+
+}
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    max-width: 100%;
+    font-style: verdana;
+
+}
+article {
+display: grid
+
+
+}
